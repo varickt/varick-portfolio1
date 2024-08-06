@@ -1,1 +1,1 @@
-# varick-portfolio1
+# varick-portfolio1 site that gets updated throughout the cohort
